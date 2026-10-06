@@ -13,6 +13,10 @@
 
 `bash scripts/download-eleitorado-dataaset-local-votacao.sh`
 
+## Executar para um estado:
+
+`uf=pe python3 main.py`
+
 ## Diretórios
 
 - tse_bu: diretório com scripts para decodificação dos BUs
